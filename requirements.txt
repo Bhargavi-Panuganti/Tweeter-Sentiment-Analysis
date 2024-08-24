@@ -1,2 +1,2 @@
 nltk==3.4.3
-sckit-learn==1.5.1
+scikit-learn==1.5.1
